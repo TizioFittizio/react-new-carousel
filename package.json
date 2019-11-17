@@ -1,0 +1,34 @@
+{
+  "name": "react-new-carousel",
+  "version": "0.1.0",
+  "description": "A simply modern react carousel",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TizioFittizio/react-new-carousel.git"
+  },
+  "keywords": [
+    "react",
+    "carousel",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Luca Campana <luca.campa.94@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TizioFittizio/react-new-carousel/issues"
+  },
+  "homepage": "https://github.com/TizioFittizio/react-new-carousel#readme",
+  "peerDependencies": {
+    "react": "^15.0.0-0 || ^16.0.0-0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.11",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "typescript": "^3.7.2"
+  }
+}
